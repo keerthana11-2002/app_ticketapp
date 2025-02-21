@@ -1,0 +1,2 @@
+C:/Users/91894/OneDrive/Desktop/flutter_projects/ticket_app/android/app/.cxx/Debug/5f605c50/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/91894/OneDrive/Desktop/flutter_projects/ticket_app/android/app/.cxx/Debug/5f605c50/x86_64/CMakeFiles/rebuild_cache.dir
